@@ -1,7 +1,7 @@
 *
 !*/
 !.gitignore
-!mods
-!config
 !mc-mods-setup.bat
 !mc-mods-update.bat
+*.log
+config/XaeroWaypoints/
