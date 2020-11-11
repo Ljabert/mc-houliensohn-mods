@@ -13,7 +13,7 @@ RD /S /Q %temp%\McHouliensohnMods\.git
 
 move /Y %temp%\McHouliensohnMods\config 	%appdata%\.minecraft
 move /Y %temp%\McHouliensohnMods\mods 		%appdata%\.minecraft
-move /Y %temp%\McHouliensohnMods\* 		 %appdata%\.minecraft
+move /Y %temp%\McHouliensohnMods\* 		%appdata%\.minecraft
 
 RD /S /Q %temp%\McHouliensohnMods
 
