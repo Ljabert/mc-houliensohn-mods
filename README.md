@@ -21,3 +21,4 @@
 Itheran hat Zugriff auf das Repo und kann Mods hochladen.
 
 Wenn Änderungen an den Mods oder Configs durchgeführt wurden, startet der Server automatisch neu und ihr müsst eure Mods über das Updateskript aktuallisieren.
+
