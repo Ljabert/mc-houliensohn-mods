@@ -8,8 +8,8 @@
     - [Linux](https://git-scm.com/download/linux)
 
 2. [mc-mods-setup.bat](https://github.com/Ljabert/mc-huliensohn-mods/blob/master/mc-mods-setup.bat) herunterladen und ausführen
-    - das Skript löscht eure alten Mods und Configs und lädt die Aktuellen runter
-        - wenn ihr die alten Mods oder Configs behalten wollt, macht ein Backup
+    - das Skript löscht eure alten Mods und lädt die Aktuellen mit angepasster Config runter
+        - wenn ihr die alten Mods behalten wollt, macht ein Backup
     - in euerem Modordner landet dann die [mc-mods-update.bat](https://github.com/Ljabert/mc-huliensohn-mods/blob/master/mc-mods-update.bat), die müsst ihr ausführen um neue Mods/Configs zu installieren
         - ihr könnt das Updateskript auch auf euren Desktop legen, es ist egal wo ihr es ausführt
 

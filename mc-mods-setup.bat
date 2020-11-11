@@ -6,7 +6,6 @@ mkdir %temp%\McHouliensohnMods
 git clone https://github.com/Ljabert/mc-huliensohn-mods %temp%\McHouliensohnMods
 
 RD /S /Q %appdata%\.minecraft\.git
-RD /S /Q %appdata%\.minecraft\config
 RD /S /Q %appdata%\.minecraft\mods
 
 xcopy /H /S /E /I /Y %temp%\McHouliensohnMods\.git 	%appdata%\.minecraft\.git
