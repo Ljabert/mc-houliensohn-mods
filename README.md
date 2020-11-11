@@ -14,11 +14,11 @@
         - ihr könnt das Updateskript auch auf euren Desktop legen, es ist egal wo ihr es ausführt
 
 3. Fertig
-    - Die Mods sind jetzt aktuell und bei Änderungen leicht zu aktuallisieren
+    - Die Mods sind jetzt aktuell und bei Änderungen leicht zu aktualisieren
 
 ## Wann gibts neue Mods? Ich will xyz!!
 
 Itheran hat Zugriff auf das Repo und kann Mods hochladen.
 
-Wenn Änderungen an den Mods oder Configs durchgeführt wurden, startet der Server automatisch neu und ihr müsst eure Mods über das Updateskript aktuallisieren.
+Wenn Änderungen an den Mods oder Configs durchgeführt wurden, startet der Server automatisch neu und ihr müsst eure Mods über das Updateskript aktualisieren.
 
