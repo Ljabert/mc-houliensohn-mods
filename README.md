@@ -2,10 +2,7 @@
 
 ## Wie und was mach ich jetzt damit?
 
-1. Git installieren
-    - [Windows](https://git-scm.com/download/win)
-    - [Mac](https://git-scm.com/download/mac)
-    - [Linux](https://git-scm.com/download/linux)
+1. Git installieren, bekommt ihr [hier](https://git-scm.com/download/win)
 
 2. [mc-mods-setup.bat](https://github.com/Ljabert/mc-huliensohn-mods/blob/master/mc-mods-setup.bat) herunterladen und ausführen
     - das Skript löscht eure alten Mods und lädt die Aktuellen mit angepasster Config runter
