@@ -4,6 +4,7 @@ cd %appdata%/.minecraft
 
 IF EXIST .git (
 	git fetch
+	gir reset --hard
 	git pull
 	pause
 ) ELSE (
