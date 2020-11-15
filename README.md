@@ -1,4 +1,10 @@
-# Lesen, bitte
+# Anleitung
+
+## **Wichtig**
+
+**Die Skripte können nur korrekt funktionieren, wenn Minecraft aus ist.**
+
+Falls Minecraft noch im Hintergrund läuft, bitte schließen.
 
 ## Wie und was mach ich jetzt damit?
 
