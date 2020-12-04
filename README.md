@@ -24,3 +24,5 @@ Falls Minecraft noch im Hintergrund läuft, bitte schließen.
 Itheran hat Zugriff auf das Repo und kann Mods hochladen.
 
 Wenn Änderungen an den Mods oder Configs durchgeführt wurden, startet der Server automatisch neu und ihr müsst eure Mods über das Updateskript aktualisieren.
+
+<a href="https://github.com/Ljabert/mc-houliensohn-mods/blob/master/mc-mods-setup.bat" download="">test</a>
