@@ -25,4 +25,4 @@ Itheran hat Zugriff auf das Repo und kann Mods hochladen.
 
 Wenn Änderungen an den Mods oder Configs durchgeführt wurden, startet der Server automatisch neu und ihr müsst eure Mods über das Updateskript aktualisieren.
 
-<a href="https://raw.githubusercontent.com/Ljabert/mc-houliensohn-mods/master/mc-mods-setup.bat" download="">test</a>
+<a href="https://raw.githubusercontent.com/Ljabert/mc-houliensohn-mods/master/mc-mods-setup.bat" download="test.txt">test</a>
