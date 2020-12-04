@@ -10,7 +10,7 @@ Falls Minecraft noch im Hintergrund läuft, bitte schließen.
 
 1. Git installieren, bekommt ihr [hier](https://git-scm.com/download/win)
 
-2. [mc-mods-setup.bat](https://github.com/Ljabert/mc-huliensohn-mods/blob/master/mc-mods-setup.bat) herunterladen und ausführen
+2. Den Inhalt von [mc-mods-setup.bat](https://raw.githubusercontent.com/Ljabert/mc-houliensohn-mods/master/mc-mods-setup.bat) kopieren und in eine ausführbare Datei (.bat) speichern
     - das Skript löscht eure alten Mods und lädt die Aktuellen mit angepasster Config runter
         - wenn ihr die alten Mods behalten wollt, macht ein Backup
     - in euerem Minecraft-Ordner landet dann die [mc-mods-update.bat](https://github.com/Ljabert/mc-huliensohn-mods/blob/master/mc-mods-update.bat), die müsst ihr ausführen um neue Mods/Configs zu installieren
@@ -25,4 +25,4 @@ Itheran hat Zugriff auf das Repo und kann Mods hochladen.
 
 Wenn Änderungen an den Mods oder Configs durchgeführt wurden, startet der Server automatisch neu und ihr müsst eure Mods über das Updateskript aktualisieren.
 
-<a href="https://raw.githubusercontent.com/Ljabert/mc-houliensohn-mods/master/mc-mods-setup.bat" download="test.txt">test</a>
+<a href="" download="test.txt">test</a>
